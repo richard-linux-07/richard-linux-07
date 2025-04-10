@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Richard 👋</h1>
 <p align="center">
   <b>Software Developer | Ethical Hacking Enthusiast</b><br>
-  Passionate about cross-platform development, security, and writing clean code.
+ 
 ---
 
 ### 🎨 Programming Languages I Use
@@ -37,8 +37,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruchard-linux-07&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchard-linux-07&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=richard-linux-07&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richard-linux-07&theme=radical" width="48%" />
 </p>
 
 ---
