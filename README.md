@@ -44,5 +44,5 @@
 ---
 
 ### 📫 Contact Me
-🐙 GitHub: https://github.com/richard-linux-07
+🐙 GitHub: [Richard-Linux-07](https://github.com/richard-linux-07)
 <p align="center"><i>"Code with clarity, hack with integrity."</i></p>
