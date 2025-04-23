@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Richard 👋</h1>
 <p align="center">
-  <b>Software Developer | Ethical Hacking Enthusiast</b><br>
+  <b>Linux debugger| Ethical Hacking Enthusiast</b><br>
  
 ---
 
