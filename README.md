@@ -1,4 +1,4 @@
-![GIF](https://github.com/richard-linux-07/richard-linux-07/blob/main/Name.gif)
+![GIF](https://github.com/richard-linux-07/richard-linux-07/blob/main/Name2.gif)
 <p align="center">
   <b>Linux debugger | Ethical Hacking Enthusiast</b><br>
  
