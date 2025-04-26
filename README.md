@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Richard 👋</h1>
+<h1 align="center">EL CÓDIGO ES VIDA</h1>
 <p align="center">
   <b>Linux debugger| Ethical Hacking Enthusiast</b><br>
  
