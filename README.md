@@ -1,4 +1,4 @@
-![Image](https://cdn.pixabay.com/photo/2024/03/05/19/42/ai-generated-8615202_1280.jpg)
+![GIF](https://github.com/richard-linux-07/richard-linux-07/blob/main/Name.gif)
 <p align="center">
   <b>Linux debugger | Ethical Hacking Enthusiast</b><br>
  
