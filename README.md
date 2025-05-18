@@ -29,7 +29,7 @@
 - 🧰 **Exploitation**: Metasploit, SQLMap, BeEF
 - 🔐 **Password Cracking**: John the Ripper, Hashcat, Hydra
 
-- <p align="center"><i>All tools are explored for educational and ethical purposes only.</i></p>
+- <p align="center"><i><b>All tools are explored for educational and ethical purposes only.</b></i></p>
 
 ---
 
